@@ -1,0 +1,13 @@
+{
+  "name": "LocalX",
+  "productName": "LocalX",
+  "version": "2.0.1",
+  "description": "LocalMiner Updater",
+  "main": "electron/index.js",
+  "author": "ADITYA",
+  "license": "MIT",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "uaup-js": "^0.0.22"
+  }
+}
